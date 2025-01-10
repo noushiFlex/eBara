@@ -6,7 +6,7 @@ Ebara est une plateforme d'e-learning intuitive et interactive qui offre des fon
 
 ### **Gestion des utilisateurs**
 - **Administrateurs** : Ajouter des utilisateurs, attribuer des rôles et superviser la plateforme.
-- **Responsables de scolarité** : Gérer les structures académiques (filières, niveaux, classes) et les inscriptions.
+- **Responsables de scolarité** : Gérer les structures académiques (filières, niveaux, classes).
 - **Comptabilité** : Suivre les paiements des étudiants, gérer la paie des enseignants et générer des rapports financiers.
 - **Enseignants** : Publier des contenus pédagogiques, organiser des quiz, et corriger les devoirs.
 - **Étudiants** : Accéder aux cours, passer des évaluations et consulter leurs résultats.
@@ -24,15 +24,7 @@ Ebara est une plateforme d'e-learning intuitive et interactive qui offre des fon
 - Quiz et devoirs avec options de correction automatique ou manuelle.
 - Suivi des notes et calcul des moyennes en fin de cours.
 
-## Installation et configuration ⚙️
-
-### Prérequis
-- **Langage** : Python, JavaScript, ou tout autre langage pertinent.
-- **Base de données** : MySQL, PostgreSQL, ou autre.
-- **Framework** : Django, Node.js, ou similaire.
-- **Autres** : Un serveur local (XAMPP, WAMP, ou Docker).
-
-### Étapes
-1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/ebara.git
+### Lien des diagrames 
+```https://www.figma.com/board/GlMRlk0LV2RXjTjfZOM1X6/eBara?node-id=0-1&t=UN55gZvOfi3cP9mQ-1```
+### Lien du WireFrame
+```https://www.figma.com/design/xkLzz4YQeGBildWKKuyuCK/eBaraWF?node-id=0-1&t=ogcHE1yqwkVdPeai-1```
